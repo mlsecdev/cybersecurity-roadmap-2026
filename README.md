@@ -9,7 +9,7 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-00c96e?style=for-the-badge&labelColor=0d1117)](https://github.com/mlsecdev/cybersecurity-roadmap-2026)
 [![Level](https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Expert-blue?style=for-the-badge&labelColor=0d1117)](#)
 [![Maintained](https://img.shields.io/badge/Maintained%20by-mlsecdev-red?style=for-the-badge&labelColor=0d1117)](https://github.com/mlsecdev)
-[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge&labelColor=0d1117)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=for-the-badge&labelColor=0d1117)](LICENSE)
 
 <br/>
 
@@ -168,7 +168,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **Apache License 2.0**. See `LICENSE` for more information.
 
 ## 🕒 Last Updated
 

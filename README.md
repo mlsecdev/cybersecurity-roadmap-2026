@@ -124,6 +124,7 @@ Where the industry lives now. Security is no longer a "gate," it is a "guardrail
 
 ---
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs (OWASP Juice Shop, DVWA, kubernetes-goat, Hack The Box); covers web, API, Active Directory and Kubernetes.
 ## 🧪 Labs & Practice
 
 Theory is nothing without application. Build your "Home Lab" or use these platforms:
